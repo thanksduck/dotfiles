@@ -1,0 +1,1 @@
+/Users/shivam/.tmux//plugins/tmux/window/window_default_format.sh

@@ -1,0 +1,1 @@
+/Users/shivam/.tmux//plugins/tpm/HOW_TO_PLUGIN.md

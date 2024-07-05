@@ -1,0 +1,1 @@
+/Users/shivam/.tmux//plugins/tpm/docs/changing_plugins_install_dir.md

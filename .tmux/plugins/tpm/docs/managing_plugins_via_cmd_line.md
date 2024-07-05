@@ -1,0 +1,1 @@
+/Users/shivam/.tmux//plugins/tpm/docs/managing_plugins_via_cmd_line.md

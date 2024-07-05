@@ -1,0 +1,1 @@
+/Users/shivam/.tmux//plugins/tmux/pane/pane_default_format.sh

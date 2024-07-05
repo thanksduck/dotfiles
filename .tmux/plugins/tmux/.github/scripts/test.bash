@@ -1,0 +1,1 @@
+/Users/shivam/.tmux//plugins/tmux/.github/scripts/test.bash

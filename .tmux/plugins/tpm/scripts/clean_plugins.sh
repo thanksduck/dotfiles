@@ -1,0 +1,1 @@
+/Users/shivam/.tmux//plugins/tpm/scripts/clean_plugins.sh
