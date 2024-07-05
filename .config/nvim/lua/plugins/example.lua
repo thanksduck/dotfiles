@@ -1,0 +1,1 @@
+/Users/shivam/.config/nvim/lua/plugins/example.lua

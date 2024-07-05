@@ -3,6 +3,8 @@ tap "homebrew/bundle"
 tap "homebrew/cask-versions"
 tap "homebrew/services"
 tap "mongodb/brew"
+# Fork of cat with syntax highlighting and git support
+brew "bat"
 # Interpreted, interactive, object-oriented programming language
 brew "python@3.12"
 # Swiss-army knife for Android testing and development

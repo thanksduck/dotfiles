@@ -1,0 +1,1 @@
+/Users/shivam/.config/raycast/extensions/9349c6b9-c442-4895-98e3-b3a926e74ed7/upgrade.js
